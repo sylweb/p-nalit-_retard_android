@@ -1,0 +1,4 @@
+#Tue Jun 26 08:50:18 CEST 2018
+base.0=/Users/sylvain/Desktop/Projets_android/PenaliteRetard/app/build/intermediates/transforms/dexMerger/debug/10
+renamed.0=classes.dex
+file.0=/Users/sylvain/Desktop/Projets_android/PenaliteRetard/app/build/intermediates/transforms/dexMerger/debug/10/classes.dex
